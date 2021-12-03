@@ -6,6 +6,8 @@
 위 문제를 해결하는 과정이다. (11점)
 - G W i " esc A " esc :x
 
+![문제1 과정](https://user-images.githubusercontent.com/94672670/144652809-d973360c-8134-41b4-89b2-d48fa95f51e5.gif)
+
 
 2. Simple replacements
 ---
@@ -14,6 +16,7 @@
 위 문제를 해결하는 과정이다. (28점)
 - :%s/sumlime\|emacs/vim/g :x
 
+![문제 2 과정](https://user-images.githubusercontent.com/94672670/144653531-b8a5a508-9f78-41e5-9783-835901dd8a66.gif)
 
 3. Satisfy the go linter
 ---

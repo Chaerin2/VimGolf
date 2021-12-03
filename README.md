@@ -1,7 +1,12 @@
 # VimGolf
 1. Add quotes to ansible playbook
 ---
+##### 가장 마지막 줄에 있는 state:에 따옴표를 추가해주는 문제이다.
+![문제1](https://user-images.githubusercontent.com/94672670/144594249-edd44471-dbef-4d1d-a62b-4e78b826a363.GIF)
 
+11타수로 해결할 수 있는 방법은 다음과 같다
+- G W i " esc A " esc :x
+다음 사진은 해결하는 과정이다.
 2. Simple replacements
 ---
 3. Satisfy the go linter

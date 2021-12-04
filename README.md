@@ -5,7 +5,7 @@
 ##### 가장 마지막 줄에 있는 state:에 따옴표를 추가해주는 문제이다.
 ![문제1](https://user-images.githubusercontent.com/94672670/144594249-edd44471-dbef-4d1d-a62b-4e78b826a363.GIF)
 
-keystrokes (11점)
+## keystrokes (11점)
 - LWi"<Esc>A"<Esc>:x<CR>
 
 ![문제1 과정](https://user-images.githubusercontent.com/94672670/144652809-d973360c-8134-41b4-89b2-d48fa95f51e5.gif)
